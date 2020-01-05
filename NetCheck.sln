@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NetCheck", "NetCheck\NetCheck.vbproj", "{57AF976E-5327-4732-8DDB-D33CE37AC73A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NetCheck Installer", "NetCheck Installer\NetCheck Installer.vdproj", "{055757F9-F5D6-49AB-999E-49594AB0A6E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57AF976E-5327-4732-8DDB-D33CE37AC73A}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{57AF976E-5327-4732-8DDB-D33CE37AC73A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055757F9-F5D6-49AB-999E-49594AB0A6E1}.Debug|Any CPU.ActiveCfg = Debug
+		{055757F9-F5D6-49AB-999E-49594AB0A6E1}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBEE5F5F-C12E-4457-A60F-9BE4D146170C}
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
